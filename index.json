@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Bhagavatam_Vaddeparthi_Padmakar",
-      "usedBytes": 411192725,
+      "usedBytes": 445152771,
       "full": false
     }
   ],
@@ -112,8 +112,22 @@
       "addedAt": "2026-11-26T06:21:05.049Z",
       "updatedAt": "2026-11-26T06:21:05.049Z",
       "manifest": "manifests/f5ebda7e-8bc0-4f8a-b1a6-7fec5b6a2e21.json"
+    },
+    {
+      "id": "067d66e3-3e11-404c-ba6b-86b6636a5836",
+      "kind": "audio",
+      "title": "Part - 105 Sampoorna Srimadbhagavatam | సంపూర్ణ శ్రీమద్భాగవతం |By Brahmasri Vaddiparti Padmakar Garu",
+      "artist": "Brahmasri Vaddiparti Padmakar Official",
+      "album": "Unknown",
+      "duration": 1320,
+      "mime": "audio/mpeg",
+      "bytes": 32042275,
+      "sha256": "2b6ebbc1a63891cd1c5c2afb47b9ff7d6dbe75adcf22930600598882028a9685",
+      "addedAt": "2026-11-26T06:21:05.274Z",
+      "updatedAt": "2026-11-26T06:21:05.274Z",
+      "manifest": "manifests/067d66e3-3e11-404c-ba6b-86b6636a5836.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T06:27:34.844Z"
+  "updatedAt": "2026-11-26T06:28:11.203Z"
 }
