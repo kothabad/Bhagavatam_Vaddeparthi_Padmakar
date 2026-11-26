@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "trackId": "02c18b95-3c25-4b01-b4a5-cb08a2f59870",
+  "media": {
+    "name": "Part - 22 Sampoorna Srimadbhagavatam  |  సంపూర్ణ శ్రీమద్భాగవతం  |  By Brahmasri Vaddipar.mp3",
+    "mime": "audio/mpeg",
+    "bytes": 108088785,
+    "sha256": "7f2783c1f0c6dda91e52ce1284d38219db3ad4b7b98cf302314c43ec809b1c23",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-2",
+        "path": "data/02/02c18b95-3c25-4b01-b4a5-cb08a2f59870/media.0",
+        "bytes": 25690112,
+        "sha": "490ff16c2d3f9ff587b429fcac33a7252cb49359"
+      },
+      {
+        "n": 1,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-2",
+        "path": "data/02/02c18b95-3c25-4b01-b4a5-cb08a2f59870/media.1",
+        "bytes": 25690112,
+        "sha": "d4c53d3cba0413d9515c4d0afd2cdc3b47cd22ab"
+      },
+      {
+        "n": 2,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-2",
+        "path": "data/02/02c18b95-3c25-4b01-b4a5-cb08a2f59870/media.2",
+        "bytes": 25690112,
+        "sha": "c74c3b3f858c11021e30d2d53951dcbbc9766992"
+      },
+      {
+        "n": 3,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-2",
+        "path": "data/02/02c18b95-3c25-4b01-b4a5-cb08a2f59870/media.3",
+        "bytes": 25690112,
+        "sha": "64589b4a8c3be3f6cb2a6e6a3658f635cbfcf224"
+      },
+      {
+        "n": 4,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-2",
+        "path": "data/02/02c18b95-3c25-4b01-b4a5-cb08a2f59870/media.4",
+        "bytes": 5328337,
+        "sha": "41a278b45722312ec98374db5bbf6cb019c07173"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.jpeg",
+    "mime": "image/jpeg",
+    "bytes": 225485,
+    "sha256": "1a8d428cf353ac31c3ff66dcec650bf80c2583e9a41583f7f728becc5070f03c",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-2",
+        "path": "data/02/02c18b95-3c25-4b01-b4a5-cb08a2f59870/cover.0",
+        "bytes": 225485,
+        "sha": "7d05024c2a16517cbb83d474a4175f74e02e9065"
+      }
+    ]
+  }
+}
