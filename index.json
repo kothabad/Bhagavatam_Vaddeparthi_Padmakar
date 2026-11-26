@@ -10,10 +10,15 @@
     {
       "name": "Bhagavatam_Vaddeparthi_Padmakar",
       "usedBytes": 985636129,
+      "full": true
+    },
+    {
+      "name": "Bhagavatam_Vaddeparthi_Padmakar-part-1",
+      "usedBytes": 0,
       "full": false
     }
   ],
-  "currentRepo": "Bhagavatam_Vaddeparthi_Padmakar",
+  "currentRepo": "Bhagavatam_Vaddeparthi_Padmakar-part-1",
   "tracks": [
     {
       "id": "de40e531-0179-42eb-bad0-f27de6edadf0",
@@ -269,5 +274,5 @@
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T06:36:38.082Z"
+  "updatedAt": "2026-11-26T06:37:07.270Z"
 }
