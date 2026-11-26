@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "trackId": "7823165c-9b32-4fce-9cf3-40370e4ceebf",
+  "media": {
+    "name": "Part - 134 Sampoorna Srimadbhagavatam ｜ సంపూర్ణ శ్రీమద్భాగవతం ｜By Brahmasri Vaddiparti Padmakar Garu-(138k).mp3",
+    "mime": "audio/mpeg",
+    "bytes": 19726329,
+    "sha256": "9c9f6a21e9f0467d4636b46d7b7700717b041552dbcade066bf4c5aaeb8045f2",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-2",
+        "path": "data/78/7823165c-9b32-4fce-9cf3-40370e4ceebf/media.0",
+        "bytes": 19726329,
+        "sha": "c5dd038747a61ac3d4e1224adbca42d2823a5835"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 1916705,
+    "sha256": "2a43c145c98ed61b115a6bf277cd5c34c8349d66d9045091aa549e0dd58e6d78",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-2",
+        "path": "data/78/7823165c-9b32-4fce-9cf3-40370e4ceebf/cover.0",
+        "bytes": 1916705,
+        "sha": "3e86a697a95d3847dd65a80803a0bc479e2c9a09"
+      }
+    ]
+  }
+}
