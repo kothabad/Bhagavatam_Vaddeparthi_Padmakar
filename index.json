@@ -9,7 +9,7 @@
   "repos": [
     {
       "name": "Bhagavatam_Vaddeparthi_Padmakar",
-      "usedBytes": 700128389,
+      "usedBytes": 764903921,
       "full": false
     }
   ],
@@ -196,8 +196,22 @@
       "addedAt": "2026-11-26T06:20:48.362Z",
       "updatedAt": "2026-11-26T06:20:48.362Z",
       "manifest": "manifests/21fa648a-eb3a-4124-aeac-a90c659cfbf4.json"
+    },
+    {
+      "id": "0b92c2e8-8bb5-47a7-b763-a7bc46b892af",
+      "kind": "audio",
+      "title": "Part - 110 Sampoorna Srimadbhagavatam | సంపూర్ణ శ్రీమద్భాగవతం |By Brahmasri Vaddiparti Padmakar Garu",
+      "artist": "Brahmasri Vaddiparti Padmakar Official",
+      "album": "Unknown",
+      "duration": 2641,
+      "mime": "audio/mpeg",
+      "bytes": 62915450,
+      "sha256": "3cd3347c8a17af21e2647ab15a7b2e84e0b60bfcff6e86da5a76ec8094db1f2f",
+      "addedAt": "2026-11-26T06:21:06.925Z",
+      "updatedAt": "2026-11-26T06:21:06.925Z",
+      "manifest": "manifests/0b92c2e8-8bb5-47a7-b763-a7bc46b892af.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T06:32:13.072Z"
+  "updatedAt": "2026-11-26T06:33:11.095Z"
 }
