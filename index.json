@@ -14,7 +14,7 @@
     },
     {
       "name": "Bhagavatam_Vaddeparthi_Padmakar-part-1",
-      "usedBytes": 856055515,
+      "usedBytes": 931813835,
       "full": false
     }
   ],
@@ -467,8 +467,22 @@
       "addedAt": "2026-11-26T06:21:11.051Z",
       "updatedAt": "2026-11-26T06:21:11.051Z",
       "manifest": "manifests/7ee322c0-977b-4b3f-ac81-7eac39078764.json"
+    },
+    {
+      "id": "56d4577c-0b83-44f8-a713-a138fd118bb0",
+      "kind": "audio",
+      "title": "Part - 128 Sampoorna Srimadbhagavatam | సంపూర్ణ శ్రీమద్భాగవతం |By Brahmasri Vaddiparti Padmakar Garu",
+      "artist": "Brahmasri Vaddiparti Padmakar Official",
+      "album": "Unknown",
+      "duration": 2642,
+      "mime": "audio/mpeg",
+      "bytes": 73894312,
+      "sha256": "77394dac71703915ed9a8b29bb90bc8a7d993c07a85dbd6de52515dcd8da0000",
+      "addedAt": "2026-11-26T06:21:11.262Z",
+      "updatedAt": "2026-11-26T06:21:11.262Z",
+      "manifest": "manifests/56d4577c-0b83-44f8-a713-a138fd118bb0.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T06:51:23.647Z"
+  "updatedAt": "2026-11-26T06:52:29.496Z"
 }
