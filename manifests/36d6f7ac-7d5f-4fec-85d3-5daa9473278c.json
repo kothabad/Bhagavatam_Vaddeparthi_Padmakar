@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "trackId": "36d6f7ac-7d5f-4fec-85d3-5daa9473278c",
+  "media": {
+    "name": "Part - 27 Sampoorna Srimadbhagavatam ｜ సంపూర్ణ శ్రీమద్భాగవతం ｜ By Brahmasri Vaddiparti Padmakar Garu-(130k).mp3",
+    "mime": "audio/mpeg",
+    "bytes": 60088261,
+    "sha256": "e24f34128136ca73b81912dcf8c033ea38d248c1028d254b12796eefcc5d2bcd",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-3",
+        "path": "data/36/36d6f7ac-7d5f-4fec-85d3-5daa9473278c/media.0",
+        "bytes": 25690112,
+        "sha": "741a410c23474a1b6d042d0deed9cd7be299ce0b"
+      },
+      {
+        "n": 1,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-3",
+        "path": "data/36/36d6f7ac-7d5f-4fec-85d3-5daa9473278c/media.1",
+        "bytes": 25690112,
+        "sha": "03a79f340fa4e16b1dbbefab36d70be14eec622f"
+      },
+      {
+        "n": 2,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-3",
+        "path": "data/36/36d6f7ac-7d5f-4fec-85d3-5daa9473278c/media.2",
+        "bytes": 8708037,
+        "sha": "a32c07a841c666a74a1583817da958654bf834eb"
+      }
+    ]
+  },
+  "cover": {
+    "name": "cover.png",
+    "mime": "image/png",
+    "bytes": 1913133,
+    "sha256": "239ab0277a8ff0dc1b5bd2a01b9de90409dbe4529f3847fcbaf895caa2e326fb",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Bhagavatam_Vaddeparthi_Padmakar-part-3",
+        "path": "data/36/36d6f7ac-7d5f-4fec-85d3-5daa9473278c/cover.0",
+        "bytes": 1913133,
+        "sha": "88f752d5a1116d501d72f45b31e988a43bd1999c"
+      }
+    ]
+  }
+}
